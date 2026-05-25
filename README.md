@@ -178,6 +178,6 @@ The React frontend should:
 
 ## Authors
 
-Pratiksha Kumawat · Priyanshi Jaisinghani · Vanshika Paliwal · Sarvesh Dak · Yash Raj Wadhwani  
+Pratiksha Kumawat · Muktak Pandya · Vanshika Paliwal · Sarvesh Dak · Yash Raj Wadhwani  
 Supervisor: Dr. Avinash Pawar
 "# AuraCareAI" 
